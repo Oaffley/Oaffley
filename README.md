@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Oaffley&color=27ABE3&label=mudkips)
+![](https://komarev.com/ghpvc/?username=Oaffley&color=277DF5&label=mudkips)
 
 <div style="display: flex; gap: 10px;">
   <img src="https://static.wikia.nocookie.net/movieunleashers/images/1/13/Mudkip3.png/revision/latest/scale-to-width-down/1000?cb=20250217182507" width="300">
