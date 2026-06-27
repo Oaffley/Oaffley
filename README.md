@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Oaffley&color=277DF5&label=mudkips)
+![](https://komarev.com/ghpvc/?username=Oaffley&color=277DF5&label=Oshawotts)
 
 <div style="display: flex; gap: 10px;">
   <img src="https://static.wikia.nocookie.net/movieunleashers/images/3/34/Oshawott2.png/revision/latest?cb=20250915231725" width="230">
